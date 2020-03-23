@@ -24,11 +24,11 @@
 
 - re  beautifulsoup 是内容解析库
 
-  <img src="C:\Users\11928\Desktop\疫情可视化\images\爬虫1.png" style="zoom:50%;" />
+  <img src="https://github.com/YCY1998/flask/tree/master/https://github.com/YCY1998/flask/tree/master/images\爬虫1.png" style="zoom:50%;" />
 
   
 
-![数据表示](images\数据表示.png)
+![数据表示](https://github.com/YCY1998/flask/tree/master/images\数据表示.png)
 
 #### 数据库的相关问题处理
 
@@ -95,11 +95,11 @@ replace  如果数据存在则进行update 操作， 如果数据不存在就执
 
 ####  生产模式 部署项目
 
-- WSGI 应用服务器搭配ngin![数据库配置文件](images\数据库配置文件.png)x 作为反向代理， 
+- WSGI 应用服务器搭配ngin![数据库配置文件](https://github.com/YCY1998/flask/tree/master/images\数据库配置文件.png)x 作为反向代理， 
 
 - 常用的配置有gunicorn   ，uwsgi
 
-![反向代理](images\反向代理.png)![反向代理](images\反向代理配置.png)
+![反向代理](https://github.com/YCY1998/flask/tree/master/images\反向代理.png)![反向代理](https://github.com/YCY1998/flask/tree/master/images\反向代理配置.png)
 
 
 
